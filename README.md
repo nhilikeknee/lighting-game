@@ -1,6 +1,6 @@
 # Pre-work - *Memory Game*
 
-**Nhi Not Simon* is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Nhi Not Simon** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: Nhi Nguyen
 
@@ -12,21 +12,21 @@ Link to project: [https://glitch.com/edit/#!/satisfying-gelatinous-louse?path=RE
 
 The following **required** functionality is complete:
 
-* **[YES]** Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* **[YES]** "Start" button toggles between "Start" and "Stop" when clicked. 
-* **[YES]** Game buttons each light up and play a sound when clicked. 
-* **[YES]** Computer plays back sequence of clues including sound and visual cue for each button
-* **[YES]** Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* **[YES]** User wins the game after guessing a complete pattern
-* **[YES]** User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
-* **[YES]** Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* **[YES]** Buttons use a pitch (frequency) other than the ones in the tutorial   
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial   
 *(more specifically, the frequeny was changed to increasing order as another clue to help the player remember the sequence)*
 * [ ] More than 4 functional game buttons
-* **[YES]** Playback speeds up on each turn
+* [x] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
@@ -35,7 +35,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- **[YES]** **Regular vs Advanced Option**   
+- [x] **Regular vs Advanced Option**   
 Instead of just forcing the speed of the game to increase, 
 I gave the user the option to choose which version of the game they wanted to play by adding an additional start button. 
 The regular Start button will run the default game but the Start (Adv) button will speed up the playClueSequence function.
