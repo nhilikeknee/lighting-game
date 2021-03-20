@@ -47,10 +47,10 @@ Once the game ends, the variables are then set back to their default values in t
 Here's a walkthrough of implemented user stories:
 ![](your-link-here)
 [Video demonstrating all app functionalities INCLUDING SOUND (Game Over message does not display in recording because I was only recording the current tab, not the full window. However, messages can bee seen in the GIFS)](https://www.loom.com/share/c9b1ef6832e04c869208db142ffe8983)
-* Lose, in default mode
+* Lose, in default mode   
 ![deafultMide](https://media1.giphy.com/media/l2EuPBp14KAciKFpBw/giphy.gif)
 
-* Win, in Advanced mode (additional speed feature)
+* Win, in Advanced mode (additional speed feature)   
 ![advMode](https://media3.giphy.com/media/3ZwJ41cHxjFxWo4tbQ/giphy.gif)
 
 
